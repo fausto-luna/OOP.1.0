@@ -1,0 +1,55 @@
+.header { 
+    text-align: center;
+    margin-top: 3rem;
+    /* background-color: lightgray; */
+}
+h1 {
+    font-size: 2rem;
+}
+h2{
+    font-size: 1rem;
+}
+h3{
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+button {
+    align-items: center;
+}
+.row{
+    margin-top: 3rem;
+}
+/* .btn{
+    align-items: center;
+} */
+#my_centered_buttons { 
+    display: flex; 
+    justify-content: center; 
+}
+
+footer {
+    position: fixed;
+    vertical-align: middle;
+    bottom: 0;
+    width: 100%;
+    margin-left: 0;
+    /* background-color: gold; */
+}
+
+/* .container-fluid {
+     background-color: gold; 
+} */
+
+ #containerFooter{
+    /* background-color: blue; */
+    text-align: center;
+    /* margin-left: -1rem; <-- pendiente de arreglar! */
+}
+#txtResultCreate5HotelsID{
+    margin-top: 2rem;
+}
+
+/* body{
+    background-color: magenta;
+} */
